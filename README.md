@@ -1,2 +1,2 @@
 # nanopipe
-Playground for task list development
+Playground for pipeline development.
